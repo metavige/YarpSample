@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace YarpSample.TargetApi.Controllers;
 
 [ApiController]
-[Route("target/[controller]")]
+[Route("[controller]")]
 public class WeatherForecastController : ControllerBase
 {
     private static readonly string[] Summaries = new[]

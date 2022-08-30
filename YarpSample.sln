@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YarpSample.Api", "YarpSample.Api\YarpSample.Api.csproj", "{7A1AD2FC-29EA-4DE6-A5FC-55F3D8E7AA8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YarpSample.TargetApi", "YarpSample.TargetApi\YarpSample.TargetApi.csproj", "{73AB6EBA-C186-47E2-8511-56E73CE00062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A1AD2FC-29EA-4DE6-A5FC-55F3D8E7AA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1AD2FC-29EA-4DE6-A5FC-55F3D8E7AA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1AD2FC-29EA-4DE6-A5FC-55F3D8E7AA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1AD2FC-29EA-4DE6-A5FC-55F3D8E7AA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73AB6EBA-C186-47E2-8511-56E73CE00062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73AB6EBA-C186-47E2-8511-56E73CE00062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73AB6EBA-C186-47E2-8511-56E73CE00062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73AB6EBA-C186-47E2-8511-56E73CE00062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
